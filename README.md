@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Document Tracing**
 
-- 🌱 I’m currently learning **Telecom Network Engineering**
+- 🌱 I’m currently learning **Telecommunication Network Engineering**
 
 - 📫 How to reach me **d.ortega5265@gmail.com**
 
